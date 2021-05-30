@@ -13,5 +13,11 @@ Give a summary description of Four design patterns that you choose from the foll
 
 > This is one of the behavioral pattern. This pattern has a publisher subscriber model.Suppose we wish to subscibe a magazine/newspaper 
   from a particular publisher. So we can call the agent and order for the subscription. 
-  After the subscription, the agent will send the each copy to us. And if are wish to unscribe, they will stop sending the newspaper or magazine.
+  After the subscription, the agent will send the each copy once the new edition is available. And if are wish to unscribe, they will stop sending the newspaper or magazine.
   Thus we dont need to go for each and every edition.
+  
+2. Adapter Pattern
+
+> This pattern comes under structural pattern. A simple example to describe this pattern is, imagine a normal need to drive over a railway line. This is not posbile directly(otherwise the driver should be more skillfull). This can be possible if a railtruck carrying thar CAR. The Car's tyres are incompitable with railwy line. but the car dapted to the interface via an adapter that is "railtruck".
+
+3. 
