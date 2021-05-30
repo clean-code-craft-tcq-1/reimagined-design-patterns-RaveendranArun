@@ -23,5 +23,3 @@ Give a summary description of Four design patterns that you choose from the foll
 > This pattern comes under structural pattern. A simple example to describe this pattern is, imagine a Car need to drive over a railway line. This is not posbile directly(otherwise the driver should be more skillfull). This can be possible if a railtruck carrying the Car. The Car's tyres are incompitable with railwy line. But the car adapted to the railway interface via an adapter that is "railtruck".
 
 Advantages: This pattern helps to communicate between two independent processes.
-
-3. 
