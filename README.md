@@ -18,6 +18,6 @@ Give a summary description of Four design patterns that you choose from the foll
   
 2. Adapter Pattern
 
-> This pattern comes under structural pattern. A simple example to describe this pattern is, imagine a normal need to drive over a railway line. This is not posbile directly(otherwise the driver should be more skillfull). This can be possible if a railtruck carrying thar CAR. The Car's tyres are incompitable with railwy line. but the car dapted to the interface via an adapter that is "railtruck".
+> This pattern comes under structural pattern. A simple example to describe this pattern is, imagine a Car need to drive over a railway line. This is not posbile directly(otherwise the driver should be more skillfull). This can be possible if a railtruck carrying the Car. The Car's tyres are incompitable with railwy line. But the car adapted to the railway interface via an adapter that is "railtruck".
 
 3. 
