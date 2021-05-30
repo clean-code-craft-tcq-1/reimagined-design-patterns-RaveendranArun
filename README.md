@@ -16,8 +16,12 @@ Give a summary description of Four design patterns that you choose from the foll
   After the subscription, the agent will send the each copy once the new edition is available. And if are wish to unscribe, they will stop sending the newspaper or magazine.
   Thus we dont need to go for each and every edition.
   
+  Advantages: This pattern helps to observe the state of object. If the state the object changes, the object itself will send the notification.
+  
 2. Adapter Pattern
 
 > This pattern comes under structural pattern. A simple example to describe this pattern is, imagine a Car need to drive over a railway line. This is not posbile directly(otherwise the driver should be more skillfull). This can be possible if a railtruck carrying the Car. The Car's tyres are incompitable with railwy line. But the car adapted to the railway interface via an adapter that is "railtruck".
+
+Advantages: This pattern helps to communicate between two independent processes.
 
 3. 
