@@ -23,3 +23,16 @@ Give a summary description of Four design patterns that you choose from the foll
 > This pattern comes under structural pattern. A simple example to describe this pattern is, imagine a Car need to drive over a railway line. This is not posbile directly(otherwise the driver should be more skillfull). This can be possible if a railtruck carrying the Car. The Car's tyres are incompitable with railwy line. But the car adapted to the railway interface via an adapter that is "railtruck".
 
 Advantages: This pattern helps to communicate between two independent processes.
+
+3. Decorator
+
+> The decorator pattern acts as a wrapper to existing class, it is used to add new functionality to an existing object without altering its structure.
+  The Coffee Ordering System has multiple types of Coffees, a new flavour of coffee can be added to the system without altering the existing feature.
+  
+4. Prototype pattern
+> This pattern involves implementing a prototype interface which tells to create a clone of the current object. 
+  The state pattern allows to change its behavior, when its internal state change. When ever program having multiple states, instead of using switch case
+  we can go to state design pattern(abstract class)
+
+
+
